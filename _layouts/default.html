@@ -4,11 +4,8 @@
     <!--
     **
     *
-    * Author:         PIZn
-    * Contact:        pizner@gmail.com
+    * Origin Author:         PIZn
     * Theme Name:     theOne
-    * Version:        1.0
-    * Date:			  2012.11.11
     *
     **
     -->
@@ -48,7 +45,7 @@
         </header>
 		{{ content }}
         <footer id="foot">
-            <p>{{ site.copyright }}Design by <a href="http://www.pizn.net" target="_blank" title="the One theme author">PIZn</a></p>
+            <p>{{ site.copyright }}Origin Design by <a href="http://www.pizn.net" target="_blank" title="the One theme author">PIZn</a></p>
         </footer>
     </section>
 </div>
@@ -64,7 +61,7 @@ $(document).ready(function() {
     var disqusId = $("#disqus_thread");
     if(disqusId && typeof disqusId != "undefined" && disqusId.length != 0) {
         var disqusName = "{{ site.disqus }}";
-        var disqus_shortname = disqusName != "" ? disqusName : "piznblog";
+        var disqus_shortname = disqusName != "" ? disqusName : "heroshane";
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
             dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
