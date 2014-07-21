@@ -1,0 +1,35 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         4
+
+title:            shane'blog
+url:              #
+feed:             /atom.xml
+author:
+    name:         shane
+    email:        heroshanezky@gmail.com
+    description:  "shane blog"
+
+about:            "我是shane"
+follow:
+    email:        heroshanezky@gmail.com
+    github:       #
+    twitter:      #
+    google:       #
+    facebook:     #
+description:      shane'blog
+
+indexContent:     true
+imageLink:        http://www.pizn.net/static/images/20121109Monutain.jpg
+
+
+style:            /css/style.css
+blogName:         shane的猪窝 
+blogDesc:         shane'blog
+favicon:          /favicon.ico
+theme:            default
+
+disqus:           heroshane
+
+copyright:        Copyright ©2014
+test:             ok
