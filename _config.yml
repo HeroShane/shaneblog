@@ -19,7 +19,7 @@ follow:
     facebook:     #
 description:      shane'blog
 
-indexContent:     true
+indexContent:     false
 imageLink:        http://www.pizn.net/static/images/20121109Monutain.jpg
 
 
