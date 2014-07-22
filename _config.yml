@@ -3,7 +3,7 @@ pygments:         true
 paginate:         4
 
 title:            shane'blog
-url:              http://heroshane.github.io/shaneblog
+url:              http://heroshane.com
 feed:             /atom.xml
 author:
     name:         shane
